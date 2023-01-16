@@ -1,5 +1,3 @@
-# 14-GitHub-Pull-Request
-
 # Introducción
 
 Un pull request (solicitud de extracción) es una característica de GitHub que permite a los colaboradores proponer cambios a un repositorio de código. Cuando un desarrollador hace un pull request, se crea una solicitud para que los administradores del repositorio revisen y acepten los cambios propuestos.
