@@ -44,10 +44,6 @@ Clic en “Open”.
 
 Habremos iniciado sesión en “GitHub”.
 
-# Evidencias
-
-![https://raw.githubusercontent.com/RaulToribio/14-GitHub-Pull-Request/main/Im%C3%A1genes/GitHub%20Pull%20Request%20(7).png](https://raw.githubusercontent.com/RaulToribio/14-GitHub-Pull-Request/main/Im%C3%A1genes/GitHub%20Pull%20Request%20(7).png)
-
 # Créditos
 
 > [José Raúl Toribio Gabriel](https://github.com/RaulToribio)
